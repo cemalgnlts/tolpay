@@ -174,8 +174,8 @@ header > h1 img {
 /* #region Our Vision */
 #vision,
 #features {
-  background: url(../assets/img/ourvision2.png),
-    url(../assets/img/ourvision1.png) center;
+  background: url(assets/img/ourvision2.png),
+    url(assets/img/ourvision1.png) center;
   background-size: cover;
 }
 
